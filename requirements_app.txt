@@ -1,0 +1,14 @@
+# Core
+streamlit
+laya
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# PyTorch — CPU build (default, works everywhere)
+# For GPU (NVIDIA), replace with:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch
